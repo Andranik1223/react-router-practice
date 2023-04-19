@@ -6,6 +6,7 @@ export default function Contact() {
   <div>
     <h1>Contact Page</h1>
     <Link to="/">Home Page</Link>
+    <Link to="/">About</Link>
   </div>
   );
 }
